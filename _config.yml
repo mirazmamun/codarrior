@@ -4,7 +4,7 @@
 
 # Site
 title: Codarrior
-subtitle: I am just a voyager in this planel
+subtitle: I am just a voyager on this planel
 description: > 
   So many things around. Have you tried to ponder about those? Do you ask questions? I do. Do you just
   see or observe. I stare.
@@ -15,7 +15,7 @@ timezone: Australia/Melbourne
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://yoursite.com
+url: https://codarrior.mirazalmamun.xyz
 root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
@@ -76,6 +76,11 @@ pagination_dir: page
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
 theme: landscape
+theme_config:
+  menu:
+    Home: /
+    Archives: /archives
+    About: /about
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
