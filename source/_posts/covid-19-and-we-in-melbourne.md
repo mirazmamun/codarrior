@@ -3,7 +3,7 @@ title: COVID-19 Lockdown & Melbourne Now
 date: 2020-03-16 14:52:31
 tags:
   - COVID-19
-  - State Emergency76
+  - State Emergency
 ---
 
 This is first time in my life...in a situation unprecedented. We already know how COVID-19 (trademark CoronaVirus) has extorted our lives. Starting in Wahun, China and then invading Italy, Spain, France and now our homecity and loving Melbourne.
